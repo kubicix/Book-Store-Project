@@ -1,2 +1,2 @@
 Book Store Project
-started at 29.07.2022
+started at 29/07/2022
